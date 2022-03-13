@@ -24,7 +24,7 @@ function startScreen() {
             "Add employee",
             "View departments",
             "View employees",
-            "View Roles",
+            "View roles",
             "Update employees",
             "Quit"
         ],
