@@ -1,12 +1,17 @@
 {
-  "name": "staff-trail",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "name": "staff-trail",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aanyah/Staff-Trail.git"
@@ -16,11 +21,5 @@
   "bugs": {
     "url": "https://github.com/Aanyah/Staff-Trail/issues"
   },
-  "homepage": "https://github.com/Aanyah/Staff-Trail#readme",
-  "dependencies": {
-    "console.table": "^0.10.0",
-    "inquirer": "^8.2.1",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.3.3"
-  }
+  "homepage": "https://github.com/Aanyah/Staff-Trail#readme"
 }
