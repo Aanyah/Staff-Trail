@@ -24,6 +24,7 @@ function startScreen() {
             "Add employee",
             "View departments",
             "View employees",
+            "View Roles",
             "Update employees",
             "Quit"
         ],
@@ -144,7 +145,7 @@ function updateEmployees() {
         },
         {
             type: "input",
-            message: "What do you want to update to?",
+            message: "What do you want to update the Role_id to?",
             name: "role_update"
         }
     ])

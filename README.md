@@ -12,5 +12,3 @@ Nods.js
 Inquirer
 
 # Link to Video
-
-
